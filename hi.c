@@ -1,5 +1,5 @@
 #include<stdio.h>
 void main()
 {
-    printf("a sample");
+    printf("a sample is ram");
 }
